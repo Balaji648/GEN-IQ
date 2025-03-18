@@ -1,7 +1,0 @@
-flask
-requests
-pillow
-gtts
-pylint
-nltk
-pymupdf
